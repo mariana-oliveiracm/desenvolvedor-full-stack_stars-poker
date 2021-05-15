@@ -1,0 +1,16 @@
+body{
+    padding: 5vh;
+}
+
+.logo{
+    margin-bottom: 5vh;
+    height: 30vh;
+    background-image: url("./logo.png");
+    background-position: center;
+    background-size: 70%;
+    background-repeat: no-repeat;
+}
+
+button{
+    margin: 1vh;
+}

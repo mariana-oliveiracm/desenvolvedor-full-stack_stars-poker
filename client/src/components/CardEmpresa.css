@@ -1,0 +1,20 @@
+.cardEmpresa{
+    background-color: lightgray;
+    /* min-height: 5vh;
+    max-width: 50vh; */
+    margin-top: 10vh;
+    padding: 2vh;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+span{
+    font-weight: 600;
+}
+
+.empresa{
+    margin-bottom: 5vh;
+}
